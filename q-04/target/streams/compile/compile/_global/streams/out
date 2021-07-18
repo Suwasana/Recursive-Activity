@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mF:\UCSC\LECTURES\2 year\SCS2204 Functional Programming\Recurtion assiment\q-04\src\main\scala\Main.scala:9:10: not found: value find_even_or_odd[0m
+[0m[[0m[31merror[0m] [0m[0m    else find_even_or_odd (n-2)[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

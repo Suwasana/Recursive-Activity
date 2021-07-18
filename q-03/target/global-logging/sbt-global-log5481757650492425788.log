@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(cb93312a-3d71-4a67-bdd6-d06fb4f76321), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"3","parents":[]},"eventTime":1626625632497,"message":"Compiling q-03","dataKind":"compile-task","data":{"target":{"uri":"file:/F:/UCSC/LECTURES/2%20year/SCS2204%20Functional%20Programming/Recurtion%20assiment/q-03/#q-03/Compile"}}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///F:/UCSC/LECTURES/2%20year/SCS2204%20Functional%20Programming/Recurtion%20assiment/q-03/src/main/scala/Main.scala"},"buildTarget":{"uri":"file:/F:/UCSC/LECTURES/2%20year/SCS2204%20Functional%20Programming/Recurtion%20assiment/q-03/#q-03/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"3","parents":[]},"eventTime":1626625632516,"message":"Compiled q-03","status":1,"dataKind":"compile-report","data":{"target":{"uri":"file:/F:/UCSC/LECTURES/2%20year/SCS2204%20Functional%20Programming/Recurtion%20assiment/q-03/#q-03/Compile"},"errors":0,"warnings":0,"time":19}})[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed Jul 18, 2021 9:57:12 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
